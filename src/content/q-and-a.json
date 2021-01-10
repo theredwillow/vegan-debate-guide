@@ -1,0 +1,723 @@
+{
+  "i-just-dont-care": {
+    "background-text": [
+      "I'm not buying into the whole vegan thing",
+      "I'm not buying into veganism",
+      "I'm not going vegan",
+      "It doesn't matter what happens to animals",
+      "I just don't care",
+      "I don't care"
+    ],
+    "title": "I just don't care",
+    "answer":
+      "\"Whatever happens to the least of us, has an effect on all of us.\"\n\nIt is important to set precedents that we care about the lives of others, even if they are less sentient than ourselves. Animals feel pain and suffer, we can reduce that though through small changes, like simply eating a veggie burger instead of a beef one. Does choosing another item on the menu seem like a hefty thing to ask for to stop a creature from living through a lifetime of suffering?"
+    
+  },
+  "why-go-vegan": {
+    "background-text": [
+      "why should you go vegan?",
+      "Why should I go vegan?",
+      "What does it matter that I go vegan?",
+      "Why do you care about veganism?"
+    ],
+    "title": "Why go vegan?",
+    "answer":
+      "There are endless reasons to go vegan.\n\nEthical.  It doesn't seem right to eat animals when we could eat something else and not make another creature suffer.\n\nEnvironmental. The animal agriculture industry is one of the worst contributors to climate change and deforestation.\n\nHealth. Vegan food is low-calorie and nutrient dense.\n\n...to name a few. Please ask me any questions you have. There are many myths around why you \"shouldn't\" go vegan."
+    
+  },
+  "already-dead": {
+    "background-text": [
+      "The animals are already dead though!",
+      "Veganism doesn't matter because the animals have already been killed.",
+      "I'm not 'saving the animals', they're already dead and on the supermarket shelves!"
+    ],
+    "title": "Already dead",
+    "answer":
+      "While we can't save the lives of the animals that are already on the shelves of the supermarkets, we can reduce the demand for meat. By purchasing vegan substitutes, you are reducing the meat industry's funding and helping a more ethical business.\n\nEven if the money still goes to the same company, they are forced to re-evaluate their revenue streams, which will change their future decisions to harm animals."
+    
+  },
+  "ancestors": {
+    "background-text": [
+      "Cavemen used to eat meat",
+      "Our ancestors ate meat"
+    ],
+    "title": "Ancestors",
+    "answer":
+      "Our ancestors did many things that you would find disturbing, including killing each other. They also didn't do many of the things that we do today to improve our lives and health, like going to the gym. Basing your ethics on cavemen is not going to take you very far. Our knowledge has improved, and our ethical behavior should improve accordingly."
+    
+  },
+  "automata": {
+    "background-text": [
+      "Animals do not think.",
+      "Animals don't actually feel pain.",
+      "Do animals have a conscious?",
+      "Animals are actually not conscious.",
+      "Animals are automata",
+      "Animals are automatons",
+      "Animals respond to stimuli, but they don't have emotions.",
+      "Animals are like meat robots",
+      "Animals don't have feelings.",
+      "Cows are like plants, they just eat, sleep, and poop."
+    ],
+    "title": "Automata",
+    "answer":
+      "Going back to the days of Descartes, there have been people that argue that animals are nothing more than automata, a sort of machine that operates but doesn't actually feel pain or have thoughts. This argument can be presented as being limited to only animals such as bugs, but some people argue it all the way up to humans (it is often brought up in discussions about AI). This debate falls into the philosophical realm and it's very difficult to provide supporting evidence because evidence like the central nervous system could further either cause, that the presence of nerve receptors proves that the animals is actually experiencing something or that the animal is only responding to the organs it has (albeit, sometimes in very complex ways). But the problem with using it to defend the use of animals is that it can be a slippery slope. When you say things like \"pigs cry out in pain as they are slaughtered merely because their bodies are conditioned to do so\", you could easily extend that to humans. Vegans believe it's best to keep an animal from experiencing pain, whether they do so out of free will or automatic reflexes is irrelevant."
+    
+  },
+  "b12": {
+    "background-text": [
+      "If I go vegan, do I need to take B12 supplements?",
+      "How do vegans get vitamin B12?",
+      "What about B12?",
+      "You can only get B12 from animal products!"
+    ],
+    "title": "B12",
+    "answer":
+      "Vitamin B12 is produced by bacteria eating cobalt in the soil and in the guts of animals (including humans). Because over-farming has reduced cobalt levels, most farm animals are fed B12 supplements. This is the source of B12 that people talk about when mentioning needing to eat animals. If you're looking to reduce animal suffering, you can take B12 supplements and avoid eating those that do."
+    
+  },
+  "bred-to-be-eaten": {
+    "background-text": [
+      "The animals' purpose is to be food",
+      "We breed chickens for food",
+      "Cows are bred to be eaten as beef",
+      "It's okay to eat these animals, they were bred for that."
+    ],
+    "title": "Bred to be eaten",
+    "answer":
+      "Eating animals cannot be justified by saying that they were bred for the purpose of being eaten. If someone wanted to eat a dog, would they be able to just eat one because they want to? Or would they need to breed the dog and say \"I'm going to eat the puppies\"?"
+    
+  },
+  "cows-need-milking": {
+    "background-text": [
+      "The dairy industry doesn't harm cows",
+      "Milking cows don't hurt them",
+      "Do cows need to be milked?",
+      "Don't"
+    ],
+    "title": "Cows need milking",
+    "answer":
+      "Cows are mammals, which lactate after pregnancy in order to feed their young.\n\nThe dairy industry artificially inseminates cows on devices called \"rape racks\". When their baby is born, they take it away from their mother. It it's a boy, they use him for veal. If it's a girl, they use her as another dairy cow.\n\nWhile it does physically relieve the cow to be milked, they miss their babies immensely and often wail for hours upon their separation. Their babies also miss their moms. They are fed a milk substitute because their mother's milk is taken for human consumption."
+    
+  },
+  "animals-would-overpopulate": {
+    "background-text": [
+      "Cows would totally eat us",
+      "A cow would eat you, if it had the chance"
+    ],
+    "title": "Cows would eat us",
+    "answer":
+      "A cow could never eat a human. They are herbivores. But even if it could, using that as an excuse to eat it doesn't make any sense. They can't reason like we can. We also have tools like tranquilizers and fences to keep dangerous predators from hurting us, not that I ever imagine a cow tearing you to shreds."
+    
+  },
+  "deserted-island": {
+    "background-text": [
+      "What if you were stuck on a deserted island?",
+      "What if you were stranded in the middle of nowhere?",
+      "What if you were trapped on a deserted island?"
+    ],
+    "title": "Deserted island",
+    "answer":
+      "If anyone was trapped in an emergency scenario, different morals might be considered acceptable. There are even stories of times where people decided it was best to sacrifice themselves to feed their starving friends! Luckily, most people aren’t forced to answer questions like “Would you eat the flesh of your friend?” because they lived their whole lives in much better scenarios.\n\nA trip to the grocery store in a developed country is quite the luxury. You are given thousands of choices of what you want to eat! Vegans decide that they should use their choice to minimize harm to animals, so they choose beans over bacon… not that they don’t enjoy the taste of meat, it’s just strange to eat your friends."
+    
+  },
+  "wrong-with-eggs": {
+    "background-text": [
+      "Why don't vegans eat eggs?",
+      "What's wrong with eating eggs?",
+      "Why are eggs not vegan?"
+    ],
+    "title": "What's wrong with eggs?",
+    "answer":
+      "Egg-laying hens don't live full lives. They are slaughtered for poultry once they stop producing eggs.\n\nBut to make matters worse… when they need to breed more, male offspring are worthless to the business model so it is standard procedure to just dump all the male chicks into a grinder with no painkillers of any kind."
+    
+  },
+  "environmental-impact": {
+    "background-text": [
+      "Is it environmentally friendly to be vegan?",
+      "What is an environmental vegan?",
+      "What are the environmental effects of farming?",
+      "Is eating animals bad for the planet?",
+      "What are the effects of eating meat on climate change?",
+      "Is animal agriculture bad for the environment?"
+    ],
+    "title": "Environmental Impact",
+    "answer":
+      "One reason to go vegan is for the planet. Animal agriculture is among one of the worst causes of various problems like methane production that cuts through the Earth's ozone layer, deforestation (including habit loss for many native species around the globe), water use (cows need to drink), and various forms of absolutely appalling pollution (pig feces is often disposed of in awful ways, such as in giant lakes that contaminate the soil or sprayed into the air)."
+    
+  },
+  "evolved-this-way": {
+    "background-text": [
+      "We needed to eat meat to develop our human brains",
+      "Humas needed to eat meat to evolve",
+      "We wouldn't have evolved like we did without meat",
+      "Eating meat helped us evolve"
+    ],
+    "title": "Evolution",
+    "answer":
+      "Whether eating meat was necessary for the development of the homo sapiens' large brain size is still up for debate. Many scientists argue that it was the process of learning to cook that really helped bring about this change. Cooking food enabled us to waste less time and energy chewing and absorb more calories from the same amount of food. This also helps explain why carnivores like lions never evolved to be as intelligent as us.\n\nBut even if it did, it really wouldn't matter because we live in a very different world. Just because something helped us evolve doesn’t mean that such behavior is ethical or acceptable today. For example, early homo sapiens used rape as a strategy for gene-promotion when they could not get access to consensual sex. This helped the human species evolve to where we are today, but no one could justify rape because it might have help us evolve."
+    
+  },
+  "extinction": {
+    "background-text": [
+      "If we stopped eating cows, they would go extinct.",
+      "What if eating an animal keeps it from going extinct?"
+    ],
+    "title": "Extinction",
+    "answer":
+      "Some people argue that the only reason certain animals exist is because we bred them into existence. The average beef cow would not be able to survive in the wild... or, if they somehow could, they would likely disrupt the ecosystem. That means if we didn't bred them, their breed or species would die off. But no one is going to raise them just to save their gene pool, so selling them for meat would raise funding.\n\nThese are interesting points to ponder. It even starts to enter into a belief called antinatalism, the idea that being born is worse than having never existed. I don't know how I feel about that philosophy, but I must say... if I was sitting in some celestial waiting room and a higher power told me that I could live, but I would only live a third of my life expectancy, in confined spaces, until I was slaughtered to be food for another species... \"I\" would just pass on that opportunity."
+    
+  },
+  "extremisim": {
+    "background-text": [
+      "Vegans are extremists",
+      "Vegans are extreme",
+      "Veganism is too extreme"
+    ],
+    "title": "Extremisim",
+    "answer":
+      "There are many different types of people who are vegan, but the definition of the word, veganism, is simply avoiding harm to animals wherever possible. That certainly doesn't sound extreme, in fact, it's a pacifist movement."
+    
+  },
+  "farm-animals-can_t-live-in-the-wild": {
+    "background-text": [
+      "Cows would be eaten by coyotes if we let them free in the wild",
+      "Farmed animals can't live in the wild",
+      "We couldn't release farm animals into the wild, they wouldn't survive"
+    ],
+    "title": "Farm animals can't live in the wild",
+    "answer":
+      "Vegans don’t want all domesticated animals to be released into the wild. You can’t do that because those animals were selectively bred outside of the ecosystem. That would cause so many unknown problems. What vegans want is for animals to stop being bred. It isn’t a question of either they get eaten by wild animals, or by us. We don’t need to be breeding them and eating them at all."
+    
+  },
+  "farmers-would-lose-their-jobs": {
+    "background-text": [
+      "What would farmers do if we were all vegetarians?",
+      "If everyone went vegan, farm workers would be unemployed",
+      "If everyone became a vegan, farmers would lose their jobs"
+    ],
+    "title": "Farmers would lose their jobs",
+    "answer":
+      "If the animal agriculture industry ceased to exist, most farmers would find work in crops which would be increasing in demand after everyone went vegan.\n\nSlaughterhouse workers would have a harder time finding new work that pays as well. But they might welcome the change because many experience PTSD from killing animals all day."
+    
+  },
+  "forcing-your-beliefs": {
+    "background-text": [
+      "Why do you force your beliefs on other people?"
+    ],
+    "title": "Forcing your beliefs",
+    "answer":
+      "Animals do not have a way to advocate for themselves, so vegans speak out to raise awareness of the injustices that they face."
+    
+  },
+  "gluten-free": {
+    "background-text": [
+      "Can vegans be gluten free?",
+      "What if you are gluten intolerant?",
+      "What if you can't eat gluten?",
+      "What if you have celiac disease?",
+      "Can you be a gluten-free vegan?",
+      "What if you're allergic to gluten?",
+      "Can you be a vegan coeliac?",
+      "Can you be vegan and celiac?"
+    ],
+    "title": "Gluten-free",
+    "answer":
+      "In order to be a vegan, you just avoid animal products. People with celiac disease are already used to a lifestyle of checking labels for ingredients, so many say it's actually easier for them than other people. Some common gluten-free, vegan foods are fruits, vegetables, beans, rice, most non-dairy milks, tofu, and tempeh.\n\nIf you'd like to read more about the lifestyle, there is an interesting article here.\nhttps://www.vegansociety.com/whats-new/blog/gluten-free-vegan-living\n\nIf you'd like to start some research into foods you could eat, this might be helpful.\nhttps://www.peta2.com/vegan-life/gluten-free-vegan-recipes/"
+    
+  },
+  "god-gave-us-dominion": {
+    "background-text": [
+      "God gave us dominion over the animals",
+      "God gave us animals to eat"
+    ],
+    "title": "God gave us dominion",
+    "answer":
+      "Having dominion over something means that you are in charge of it. With great power comes great responsibility, are we being good stewards if we are harming creatures that feel pain? We have the ability to choose between eating plants or eating animals, so isn't that the more compassionate choice? God is love."
+    
+  },
+  "good-meals": {
+    "background-text": [
+      "What are some good vegan recipes?",
+      "What is a good breakfast",
+      "What do vegans eat for dinner?",
+      "What do vegans eat for lunch?",
+      "What is a good vegan supper?",
+      "What is a good vegan dinner?",
+      "What is a good vegan lunch?",
+      "What is a good vegan breakfast?",
+      "What is a good vegan meal?"
+    ],
+    "title": "Good meals",
+    "answer":
+      "In order to eat a vegan meal, it just needs to avoid animal products. Consider how you could modify your favorite meal to do so. Do you like eggs and toast for breakfast? Consider a tofu scramble with margarine on the toast. Do you like hamburgers for lunch? Try a black bean burger with fries or an imitation meat. Almost any food you can think of has a vegan version, try googling your favorite meals, followed by \"vegan\", for more inspiration. The longer you're vegan, the more you will learn about what substitutes work best."
+    
+  },
+  "good-meat": {
+    "background-text": [
+      "What is the best type of meat to eat?",
+      "What meat should I eat?",
+      "Is there a meat that is good to eat?",
+      "Is it possible to be ethical and eat meat?",
+      "Is there a way to eat meat ethically?",
+      "Are there any ethical meats?",
+      "Is there a humane source of meat?"
+    ],
+    "title": "Good meat?",
+    "answer":
+      "There is no reason to believe that an animal deserves to die. Even if they are hunted in the wild by other animals, such carnivores who need the meat to survive or don't know any better. As humans, we have the ability to make informed decisions. We can live healthily off of a vegan diet."
+    
+  },
+  "halloween": {
+    "background-text": [
+      "What do you do with chocolate in your kid's trick-or-treat bag?",
+      "What do vegans do with non-vegan Halloween candy?",
+      "What do vegans do when trick-or-treating?"
+    ],
+    "title": "Halloween",
+    "answer":
+      "Halloween is a fun celebration that brings the community together like so little these days can. Unfortunately, most of the neighborhood is unlikely to share your vegan philosophy. This results in your kids having a bag full of non-vegan treats. What you decide to do with them is a decision you'll have to make. Some vegans will throw away things that aren't vegan (that still lives a lot of delicious options like swedish fish, cry babies, and blow pops). Some vegans will have their kids trade with their non-vegan friends. And there are some vegans who argue that their kids can have it on this one night because it's not actually affecting supply-and-demand because the candy was bought by neighbors.\n\nThis is something that you will have to decide upon yourself, but it's important to remember that \"slipping up\" and eating something non-vegan doesn't mean that you have to give up on being vegan. Every choice can make a difference!"
+    
+  },
+  "hitler-was-a-vegetarian": {
+    "background-text": [
+      "Hitler was a vegetarian"
+    ],
+    "title": "Hitler was a vegetarian",
+    "answer":
+      "Historians are still unsure about this, and there is evidence to suggest that he wasn’t. But let’s assume he was for this argument. The argument suggests that everything that Hitler did, we must do the opposite. This makes no sense. Hitler liked dogs, and brushed his teeth and ate and showered. Should we avoid doing all these things because he did? Of course not!\n\nAlso, why are we singling out Hitler? If you look at all dictators, serial killers, rapists, and tyrants throughout history, you can be sure that the vast majority are actually meat-eaters. So if the behavior of criminals dictates that you do the opposite, then why are you ignoring all of them and only talking about Hitler?"
+    
+  },
+  "honey": {
+    "background-text": [
+      "What do you replace honey with?",
+      "Why don't you eat honey?",
+      "Why can't vegans eat honey?"
+    ],
+    "title": "Honey",
+    "answer":
+      "Honey is not vegan because the bees work hard to make it for themselves and many people believe it is wrong to just take it away from them. I, personally, do not feel strongly either way about it, but agave nectar tastes almost exactly the same (maybe a bit more earthy), it's almost the same price, and they stock it right next to honey at the grocery stores so I just stick with that so that I'm not rude to bees."
+    
+  },
+  "humane-slaughter": {
+    "background-text": [
+      "What is humane slaughter?",
+      "What if the animal is slaughtered humanely?"
+    ],
+    "title": "Humane slaughter",
+    "answer":
+      "\"Humane slaughter\" is an oxymoron. There is no way to kill an animal that doesn't want to die. The only time it seems to truly makes sense to take another's life is to \"put them out of their misery\". When an animal is sick enough to reach that point, they are no longer a healthy choice for human consumption."
+    
+  },
+  "humanely-raised": {
+    "background-text": [
+      "what if the cows don't suffer?",
+      "I only buy locally sourced chicken",
+      "what if we improve the cows' living conditions?",
+      "Can't we just improve the animals' living conditions?",
+      "I only buy locally sourced beef",
+      "What if the animals don't suffer?",
+      "What if the animals lived a happy life?",
+      "What if the animals were raised humanely?"
+    ],
+    "title": "Humanely raised",
+    "answer":
+      "The animal agriculture industry is a collection of businesses and, of course, they tend to cut corners to increase their profits. Terms like \"free-range\" or \"organic\" can be loosely defined and not followed to the level that you'd like as a consumer. It's also worth considering... is an animal really living their best life if they were born to be eaten?"
+    
+  },
+  "impossible-to-be-fully-vegan": {
+    "background-text": [
+      "Animals die while harvesting plants",
+      "It is not possible to be fully vegan",
+      "Did you know it's impossible to be "
+    ],
+    "title": "Impossible to be fully vegan",
+    "answer":
+      "Veganism is about reducing as much harm to animals as possible. If you can't stop it 100%, that's alright because you're still making a difference. You're reducing the demand of an unnecessary and harmful product."
+    
+  },
+  "insects": {
+    "background-text": [
+      "Do vegans eat bugs?",
+      "What do you think about eating bugs?",
+      "Insects are the food of the future"
+    ],
+    "title": "Insects",
+    "answer":
+      "Insects are believed to be a more environmentally stable way to ranch and they are less sentient than creatures like cows, pigs, and chickens. However, they are still sentient so most vegans wouldn't eat them."
+    
+  },
+  "iron": {
+    "background-text": [
+      "Vegans don't get enough iron",
+      "Vegans are iron deficient",
+      "Where do you get your iron?"
+    ],
+    "title": "Iron",
+    "answer":
+      "Vegans can get iron from many different plant sources such as lentils, chickpeas, beans, tofu, cashew nuts, chia seeds, ground linseed, hemp seeds, pumpkin seeds, kale, dried apricots and figs, raisins, quinoa and fortified breakfast cereal."
+    
+  },
+  "it_s-legal": {
+    "background-text": [
+      "If it's legal, it must be okay",
+      "It's okay to eat meat because it's legal"
+    ],
+    "title": "It's legal",
+    "answer":
+      "Just because meat is legal doesn't make it right. Remember that slavery used to be legal, the Holocaust was legal... Sometimes the law is wrong and needs to be changed, but that starts with the people understanding that change needs to happen."
+    
+  },
+  "just-one-person": {
+    "background-text": [
+      "I can't make a difference",
+      "My purchases don't make a difference",
+      "I'm only ",
+      "I'm only "
+    ],
+    "title": "Just one person",
+    "answer":
+      "If every person said that they couldn't make a difference in the world, nothing would ever change.\n\nIt's important that people start going vegan because they will inspire others to make the switch too. Eventually, enough people do it that the businesses start to offer more vegan options.\n\nThis is actually already happening. Did you know that one of the largest suppliers of chicken in the US is looking into plant-based options? Check out this link if you'd like to read more about that!\nhttps://www.forbes.com/sites/michaelpellmanrowland/2017/12/10/tyson-foods-plant-based-meat/#15d42ed47efa"
+    
+  },
+  "like-the-taste": {
+    "background-text": [
+      "meat is tasty",
+      "do you miss the taste of meat?",
+      "Don't you miss the taste of meat?",
+      "What if I miss the taste of meat?",
+      "What if I just like the taste?",
+      "I enjoy the taste of meat",
+      "I enjoy eating meat",
+      "I just like the taste"
+    ],
+    "title": "Like the taste",
+    "answer":
+      "Meat is a delicious staple in a lot of dishes. However, the flavor usually comes from the way you cook it and the spices you use. Most of the time, you can find a vegan substitute that tastes very similar (and usually, they're healthier and less calorie dense so you can go back for seconds!).\n\nMany vegans do miss the taste of meat sometimes, but it's important to ask ourselves, \"Is a particularly delicious meal worth a lifetime of animal suffering?\". When you think of it that way, it's really easy to choose the vegetable or tofu option over the chicken or beef one."
+    
+  },
+  "lions-doe": {
+    "background-text": [
+      "Lions doe",
+      "Bears eat deer, what's wrong with us eating meat?",
+      "Tigers eat other animals",
+      "Some animals eat other animals",
+      "Lions eat meat",
+      "What about lions?"
+    ],
+    "title": "Lions doe",
+    "answer":
+      "We do not consider lions as ethical role models in any other manner, so why does it matter that they eat meat?"
+    
+  },
+  "more-important-issues": {
+    "background-text": [
+      "Well, you buy products from sweat shops!",
+      "This is not important, what about human trafficking?",
+      "There are more important issues"
+    ],
+    "title": "More important issues",
+    "answer":
+      "While there are more important issues, you are able to support multiple causes simultaneously. Veganism is a topic that comes up at least three times a day. At every meal, you have choices like picking the vegetable soup over the beef one. These are opportunities to help make the world a better place."
+    
+  },
+  "myths-about-veganism": {
+    "background-text": [
+      "Myths?",
+      "What myths?",
+      "What are some myths about veganism?"
+    ],
+    "title": "Myths about veganism",
+    "answer":
+      "There are many myths about veganism that get spread around. If you're interested in reading about some of them, there's a great article here https://www.vegansociety.com/whats-new/blog/13-myths-about-veganism"
+    
+  },
+  "natural": {
+    "background-text": [
+      "We're at the top of the food chain",
+      "It's the circle of life",
+      "It's natural to eat meat",
+      "We evolved to have canines so that we could eat meat"
+    ],
+    "title": "Natural",
+    "answer":
+      "Humans are omnivores, meaning that we can eat plants or animals. Perhaps it's just as \"natural\" for a human to eat either. However, most meat is produced through factory farming, which is certainly not natural. In the wild, animals are not artificially inseminated, confined to small cages their whole lives, and shot or gassed at the end of their lives."
+    
+  },
+  "nutrition": {
+    "background-text": [
+      "Is it healthy to be vegan?",
+      "Eating meat is important to stay healthy.",
+      "Meat has nutrients we need that we can't get from plants.",
+      "Meat is necessary"
+    ],
+    "title": "Nutrition",
+    "answer":
+      "There are many different types of people who are vegan and most are healthy. Some people are more healthy than others in any group of people though... it's all about watching what you eat.\n\n“It is the position of the Academy of Nutrition and Dietetics that appropriately planned vegetarian, including vegan, diets are healthful, nutritionally adequate and may provide health benefits for the prevention and treatment of certain diseases. These diets are appropriate for all stages of the life cycle, including pregnancy, lactation, infancy, childhood, adolescence, older adulthood and for athletes. Plant-based diets are more environmentally sustainable than diets rich in animal products because they use fewer natural resources and are associated with much less environmental damage. Vegetarians and vegans are at reduced risk of certain health conditions, including ischemic heart disease, type 2 diabetes, hypertension, certain types of cancer, and obesity.”"
+    
+  },
+  "no-parts-go-to-waste": {
+    "background-text": [
+      "No part of their body goes to waste though",
+      "It's okay because I use every part of their body"
+    ],
+    "title": "No parts go to waste",
+    "answer":
+      "The animals don’t care what you do with their bodies after their death, they care about being killed. If you’ve already committed the unethical, unnecessary action of killing an animal, what you do after doesn’t make it any better. By this logic, cannibal Jeffrey Dahmer should have received a shorter sentence, because he used nearly every part of his victims’ bodies."
+    
+  },
+  "not-everyone-can-be-vegan": {
+    "background-text": [
+      "I have a health condition, so I can't be vegan",
+      "Not everyone can be vegan"
+    ],
+    "title": "Not everyone can be vegan",
+    "answer":
+      "Anyone can be vegan. The world of plants is very diverse and there is always something to fit a person's nutritional needs. You can help reduce animal suffering. Speak to your doctor if you're worried that you won't meet your nutritional requirements."
+    
+  },
+  "not-everyone-will-go-vegan": {
+    "background-text": [
+      "Other people eat meat",
+      "Not everyone will go vegan"
+    ],
+    "title": "Not everyone will go vegan",
+    "answer":
+      "There will likely never be a day that every single person goes vegan. It is very hard for the whole world to do anything. The world will always have its problems, sexism, racism, homophobia,  violence, etc... That doesn’t mean we must tolerate these things when we see them and that we mustn’t fight to eradicate them. Even though there will always be people that abuse animals, we should still try to end animal abuse as much as possible. Having people in the world doing something unethical is no reason for you to copy them. You have control over your decisions and you can choose to be ethical regardless of what others do."
+    
+  },
+  "overpopulation-of-animals": {
+    "background-text": [
+      "If we stopped eating meat, there would be too many cows",
+      "Wouldn't the animals overrun us if we didn't eat them?"
+    ],
+    "title": "Overpopulation of animals",
+    "answer":
+      "If we all stopped eating meat, we would stop artificially inseminating them. The breeds that exist for consumption today can't breed well and their lineage would eventually die off if they weren't preserved by zoos or as pets."
+    
+  },
+  "personal-choice": {
+    "background-text": [
+      "It is my personal decision",
+      "Isn't it my personal choice?"
+    ],
+    "title": "Personal choice",
+    "answer":
+      "A personal decision is something that only affects you. Normally your diet is a personal decision, but when you eat animal products, you are harming animals."
+    
+  },
+  "plants-feel-pain": {
+    "background-text": [
+      "Plants feel pain",
+      "Do plants have feelings?",
+      "Stop eating plants, you're hurting them"
+    ],
+    "title": "Plants feel pain",
+    "answer":
+      "Plants lack a central nervous system necessary for the sensation of pain. So most scientists agree that, although they may have reactionary defenses, they are not sentient.\n\nAssuming however, that that was proven false, humans would still be omnivores incapable of photosynthesis. Vegans would consider the options and decide that it causes less harm to eat a meal of plants than to eat animals which would suffer worse pain and also eat a lifetime of plants."
+    
+  },
+  "preachy-vegans": {
+    "background-text": [
+      "why are vegans so preachy?",
+      "Vegetarians are zealots",
+      "Vegans are weird",
+      "The vegans I've met are all crazy"
+    ],
+    "title": "Preachy vegans",
+    "answer":
+      "There is this belief that vegans are some crazy cult of preachy hippies or something, but in actuality, vegans are simply people who are trying to avoid harm to animals. They come in many different forms, and, as they always say, it's best not to stereotype anyone.\n\nSome vegans can become overly frustrated that they are working towards a case that feel is noble, but that society is doing the complete opposite. Their passion can be interpreted as an attack to some people, but even if there are some \"bad eggs\", don't let your impression of them affect your ethical decisions."
+    
+  },
+  "protein": {
+    "background-text": [
+      "How do you get protein?",
+      "How do vegans get protein?",
+      "Where do you get your protein?",
+      "Where do you get protein from as a vegan?",
+      "Do you need to take protein pills?",
+      "Aren't you lacking protein?"
+    ],
+    "title": "Protein",
+    "answer":
+      "The human body does not typically require the amount of protein that people get from eating meat at every meal. You can get plenty of protein from eating plant-based food like tofu, tempeh, seitan, beans, nuts, seeds, quinoa, potatoes, kale, mushrooms, broccoli, or peas."
+    
+  },
+  "relapse-(cheating)-on-veganism": {
+    "background-text": [
+      "Would you eat meat again?",
+      "Would you ever go back to eating meat?",
+      "What if you go back to eating meat?",
+      "What if you relapse?",
+      "Do you sometimes eat meat?",
+      "Do you ever eat meat?",
+      "Do you ever cheat on your diet?"
+    ],
+    "title": "Relapse (cheating) on veganism",
+    "answer":
+      "Veganism is a moral philosophy that you try to reduce harm to animals whenever possible.\n\nIf a vegan “relapses”, that's unfortunate, but, like any moral trespass, you come to a self-understanding of why it’s important that you not behave that way again, you take strides to reduce the behavior, and you try to avoid making the same mistake over again. Every time that you eat another meal without animals, you’re changing the market’s demand. Even if you mess up every now and then, you’re making a difference."
+    
+  },
+  "society-approves": {
+    "background-text": [
+      "Everyone eats meat",
+      "Most of the world eats meat",
+      "Society says it's okay"
+    ],
+    "title": "Society approves",
+    "answer":
+      "Society has deemed a lot of things as ethical and then backtracked. Many vegans believe that slaughtering animals may one day be looked back upon as a bad practice like the way we look back at slavery in disbelief."
+    
+  },
+  "superior-species": {
+    "background-text": [
+      "Humans are more intelligent than other animals",
+      "We are superior to animals"
+    ],
+    "title": "Superior species",
+    "answer":
+      "Though humans are superior to other species in intelligence. We’re not superior in our ability to fly or see in the dark. Different types of animals have different types of skills. Even within the human race, some folks are smarter, faster, stronger, better looking, and so on. By this logic, the “superior” humans could abuse and kill the \"inferior\" humans.\n\nThe \"might makes right\" ideology has actually been used to justify many atrocities in the past, like The Holocaust, black segregation, disenfranchisement of women, and so on. “They’re less than us, so they can be killed or their rights can be taken away”.\n\nOf course, nobody wants animals to have the same rights as humans, like the right to vote, because that wouldn't make sense. What does make sense, however, is to grant them the right to life because their sentience means they want to live, just like we do."
+    
+  },
+  "thanksgiving": {
+    "background-text": [
+      "What do you eat instead of turkey ",
+      "What is the main dish at your Thanksgiving meal?",
+      "What do you eat on Turkey Day?",
+      "What do you do "
+    ],
+    "title": "Thanksgiving",
+    "answer":
+      "Thanksgiving can be an uncomfortable time for vegans. The entire holiday centers around getting together to eat a dead bird. But that doesn't mean that you can't enjoy the holiday for its message, being thankful.\n\nVeganism has come a long ways and there are many more foods available than there was before. You should bring your own food so that you know you will have something to eat. Even if your family says they support you and will provide a vegan dish, they might not be aware of the fine details like gelatin being made of beef bones or misinterpreting veganism as vegetarianism and making the mashed potatoes with butter.\n\nWhatever you do, don't let feelings of resentment feel your head. It can be easy to get frustrated that you seem to be the only one who cares about the lives of the animals, but this is a good time to display the compassion that you have chosen to live by. Also, make sure to have plenty of your vegan dish(es) to share. People will likely pretend not to want some, but want to try it, then actually want some! :D"
+    
+  },
+  "too-expensive": {
+    "background-text": [
+      "Going vegan costs too much money",
+      "I can't afford to go vegan",
+      "Isn't veganism expensive?"
+    ],
+    "title": "Too expensive",
+    "answer":
+      "Some of the cheapest foods at the supermarket are vegan. Beans and rice are sometimes less than a dollar!"
+    
+  },
+  "too-inconvenient": {
+    "background-text": [
+      "Being vegan is too much of an inconvenience",
+      "Going vegan is too inconvenient",
+      "Veganism is inconvenient"
+    ],
+    "title": "Too inconvenient",
+    "answer":
+      "I'll admit that right now, there are indeed many restaurants that don't serve any vegan options and you are inconvenienced with constantly ordering a salad. But outside of steakhouses, there are many options. A trip to the supermarket now-a-days might show you there are many meat substitutes like Gardein brand chicken nuggets. If those aren't available, you could ask your grocer to start supplying them. They are there to serve the paying customers.\n\nYou could also make your own from scratch. If you're afraid of cooking times, you can meal prep at the beginning of the week.\n\nYou could also just eat some beans from a can. You would still feel good about all the animals' lives you would be saving."
+    
+  },
+  "vegan-food-is-gross": {
+    "background-text": [
+      "Vegans eat boring food",
+      "Vegetarian food is tasteless",
+      "Fake meat is nasty",
+      "Vegan food is not tasty",
+      "Vegan food is gross"
+    ],
+    "title": "Vegan food is gross",
+    "answer":
+      "Most of the food humans eat is vegan: fruits, vegetables, grains, legumes, nuts, seeds, pasta, bread, potatoes, soy, etc... You enjoy these foods every day and you don’t think they’re unpalatable. The food your prepare is as good as you make it. There are award-winning vegan food products and restaurants all over the world. You can easily find online recipes to veganize your favorite meals. There are plenty of dairy milk alternatives on the market. If you don’t like soy milk, try oat, rice, coconut, hazelnut, or almond milk. (Pro tip: chocolate hazelnut milk tastes like Nutella!)\n\nAnd even if vegan food was tasteless, morality trumps personal pleasure. An animal’s desire to live will always be greater than your desire to eat a steak."
+    
+  },
+  "vegetarian-vs-vegan": {
+    "background-text": [
+      "What's the difference between a vegan and a vegetarian?",
+      "What is the difference between veganism and vegetarianism?"
+    ],
+    "title": "Vegetarian vs vegan",
+    "answer":
+      "A vegetarian is a person who avoids meat, while a vegan is a person who avoids animal products (which includes meat, dairy, eggs, and honey).\n\nA vegan lives by the philosophy that they try to reduce harm to animals wherever possible.\n\nThis will sometimes open the door to \"greater good questions\" like \"Can I test medicine for people on animals?\", but, almost all of the time, veganism is the difference between ordering a burger versus a veggie burger (which is a much easier decision to make!)."
+    
+  },
+  "what-is-nutritional-yeast": {
+    "background-text": [
+      "I keep hearing about this thing called nooch, do you know what that is?",
+      "What's nooch?",
+      "What is nutritional yeast?"
+    ],
+    "title": "What is nutritional yeast?",
+    "answer":
+      "Nutritional yeast, or \"nooch\" as it's lovingly nicknamed, is deactivated yeast. It's used as a cheesy, nutty flavor in a lot of vegan dishes."
+    
+  },
+  "what-is-seitan": {
+    "background-text": [
+      "What is seitan?",
+      "What is wheat meat?",
+      "What is in seitan?",
+      "What is that food that sounds like satan?"
+    ],
+    "title": "What is seitan?",
+    "answer":
+      "Seitan is wheat gluten. Vegans use it as a meat substitute (especially with barbecue) because it is filling and absorbs sauce well. It's made by removing the starch from wheat flour."
+    
+  },
+  "what-is-speciesism": {
+    "background-text": [
+      "Is speciesism real?",
+      "What is speciesism?"
+    ],
+    "title": "What is speciesism?",
+    "answer":
+      "Speciesism is a form of prejudice. It is treating one type of animal better than another. Many cultures treat dogs and cats like precious family members, while cows and pigs are slaughtered and served as meat. There is no real base in these decisions. Certain events in history made humans decide to farm these animals, but a pig is just as intelligent as a dog."
+    
+  },
+  "what-is-tempeh": {
+    "background-text": [
+      "What is in tempeh?",
+      "What is tempeh?"
+    ],
+    "title": "What is tempeh?",
+    "answer":
+      "Tempeh is a patty made from fermented, whole soybeans. It is high in protein, fiber, and vitamins. It's very filling."
+    
+  },
+  "what-is-tofu": {
+    "background-text": [
+      "How do you cook tofu?",
+      "What is tofu exactly?",
+      "What is tofu?"
+    ],
+    "title": "What is tofu?",
+    "answer":
+      "Tofu is a bean curd made from pressing soybeans together. It comes in different types like soft, firm, or extra firm. Many people press it before cooking to remove some of the water in it. It can be blended into smoothies, fried, cooked in a stew or curry, baked, etc... It is low calorie, high in protein and iron, and can typically absorb the flavors that it is cooked in."
+    
+  },
+  "what-is-veganism": {
+    "background-text": [
+      "what is a vegan?",
+      "what is the definition of veganism?",
+      "what is veganism?"
+    ],
+    "title": "What is veganism?",
+    "answer":
+      "Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose."
+    
+  },
+  "wrong-with-dairy": {
+    "background-text": [
+      "What's so bad about drinking milk?",
+      "Why don't vegans drink milk?",
+      "What's wrong with milk?",
+      "What is bad about milk?",
+      "Why do you think the dairy industry is evil?",
+      "Why not eat ice cream?",
+      "What's wrong with cheese?",
+      "Why do vegans drink soy milk?",
+      "Is it bad to drink milk?",
+      "What's wrong with drinking milk?",
+      "What is bad about the dairy industry?"
+    ],
+    "title": "What's wrong with dairy?",
+    "answer":
+      "In order to produce milk, mammals (cows included) need to be pregnant. They are placed on tools called \"rape racks\" where they are forcibly impregnated. Once the child is born, the baby is either immediately taken away from the mother or forced to wear a \"weaner\", sharp spikes that are attached under the calf's nose that hurt the mother when they try to feed so the mother rejects the baby.\n\nIf the baby is taken away, they live the life of a veal cow. They are confined to a tight space (6x7ft), denied solid food, fed iron-deficient diets that keeps their flesh tender and pale, miss their mother, and are slaughtered at about 20 weeks of age."
+    
+  }
+}

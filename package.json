@@ -1,0 +1,27 @@
+{
+	"name": "vegan-debate-guide",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"author": "theredwillow",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"lint": "eslint .",
+		"dev": "nodemon -e js,md,html --ignore dist/ src/build-tools/build.js",
+		"start": "node src/build-tools/build.js"
+	},
+	"dependencies": {
+		"glob": "^7.1.6",
+		"gray-matter": "^4.0.2",
+		"marked": "^1.1.1",
+		"mkdirp": "^1.0.4"
+	},
+	"devDependencies": {
+		"eslint": "^7.7.0",
+		"eslint-config-prettier": "^6.11.0",
+		"eslint-plugin-prettier": "^3.1.4",
+		"nodemon": "^2.0.4",
+		"prettier": "^2.0.5"
+	}
+}
